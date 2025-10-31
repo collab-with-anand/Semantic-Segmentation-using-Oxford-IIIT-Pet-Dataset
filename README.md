@@ -44,7 +44,7 @@ This project demonstrates how transfer learning and skip connections can be comb
 
 | Input | Ground Truth | Prediction |
 |--------|--------------|-------------|
-| ![Pet](images/pet_mask_example.png) | ![Mask](images/prediction_overlay.png) | ✅ Accurate segmentation |
+| ![Pet](images/Pet.png) | ![Mask](images/mask.png) | ✅ Accurate segmentation |
 
 ---
 
